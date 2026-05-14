@@ -1,0 +1,19 @@
+{
+  "baseGame": {
+    "version": "1.0.0",
+    "parts": [
+      {
+        "id": "BG01",
+        "url": "https://github.com/SEUUSUARIO/SEUREPO/releases/download/base/BG01.zip"
+      },
+      {
+        "id": "BG02",
+        "url": "https://github.com/SEUUSUARIO/SEUREPO/releases/download/base/BG02.zip"
+      },
+      {
+        "id": "BG03",
+        "url": "https://github.com/SEUUSUARIO/SEUREPO/releases/download/base/BG03.zip"
+      }
+    ]
+  }
+}
