@@ -11,17 +11,17 @@
       "fromVersion": "1.123.66.1030",
       "toVersion": "1.123.85.1020",
       "patchId": "patch_1.123.66_to_1.123.85",
-      "url": "LINK_DO_PATCH_2"
+      "url": "https://store5.gofile.io/download/direct/b26be4f0-15a6-46f8-8285-4692160a172b/patch_1.123.85.1020_to_1.124.55.1030.zip"
     },
     {
       "fromVersion": "1.122.218.1030",
       "toVersion": "1.123.66.1030",
       "patchId": "patch_1.122.218_to_1.123.66",
-      "url": "LINK_DO_PATCH_3"
+      "url": "https://store5.gofile.io/download/direct/b26be4f0-15a6-46f8-8285-4692160a172b/patch_1.123.85.1020_to_1.124.55.1030.zip"
     }
   ],
   "repair": {
     "version": "1.24.10",
-    "manifestUrl": "LINK_DO_DOWNLOADS_JSON_DA_BASE_COMPLETA"
+    "manifestUrl": "https://store5.gofile.io/download/direct/b26be4f0-15a6-46f8-8285-4692160a172b/patch_1.123.85.1020_to_1.124.55.1030.zip"
   }
 }
