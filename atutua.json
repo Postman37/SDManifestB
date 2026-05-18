@@ -1,11 +1,11 @@
 {
-  "latestVersion": "1.124.54.1030",
+  "latestVersion": "1.124.55.1030",
   "supportedVersions": [
     {
       "fromVersion": "1.123.85.1020",
-      "toVersion": "1.124.54.1030",
-      "patchId": "patch_1.123.85_to_1.124.54",
-      "url": "LINK_DO_PATCH_1"
+      "toVersion": "1.124.55.1030",
+      "patchId": "patch_1.123.85_to_1.124.55",
+      "url": "https://store5.gofile.io/download/direct/b26be4f0-15a6-46f8-8285-4692160a172b/patch_1.123.85.1020_to_1.124.55.1030.zip"
     },
     {
       "fromVersion": "1.123.66.1030",
