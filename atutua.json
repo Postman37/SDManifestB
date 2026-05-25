@@ -4,19 +4,19 @@
     {
       "fromVersion": "1.124.55.1030",
       "toVersion": "1.124.63.1020",
-      "patchId": "patch_1.124.55.1030_to_1.124.63.1020",
+      "patchId": "patch_1.124.55.1030_to_1.124.63.1020.zip",
       "url": "https://cold-eu-par-1.gofile.io/download/direct/75899936-7b1f-4b22-a17c-a0688f94671b/patch_1.124.55.1030_to_1.124.63.1020.zip"
     },
     {
       "fromVersion": "1.123.85.1020",
       "toVersion": "1.124.55.1030",
-      "patchId": "patch_1.123.85.1020_to_1.124.55.1030",
+      "patchId": "patch_1.123.85.1020_to_1.124.55.1030.zip",
       "url": "https://cold-na-phx-9.gofile.io/download/direct/aa4f069d-d444-48a7-8881-17ea2a5d2368/patch_1.123.85.1020_to_1.124.55.1030.zip"
     },
     {
       "fromVersion": "1.123.66.1030",
       "toVersion": "1.123.85.1020",
-      "patchId": "patch_1.123.66.1030_to_1.123.85.1020",
+      "patchId": "patch_1.123.66.1030_to_1.123.85.1020.zip",
       "url": "https://cold3.gofile.io/download/direct/1c5b8c7e-63a9-4f39-a6cc-3df892d9386a/patch_1.123.66.1030_to_1.123.85.1020.zip"
     }
   ],
