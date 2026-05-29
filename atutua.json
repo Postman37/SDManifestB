@@ -21,7 +21,11 @@
     }
   ],
   "repair": {
-    "version": "1.124.63.1020",
-    "manifestUrl": "https://store5.gofile.io/download/direct/b26be4f0-15a6-46f8-8285-4692160a172b/repair_1.124.63.1020.zip"
-  }
+  "version": "1.124.63.1020",
+  "parts": [
+    "https://pub-f9d4a74fc978463fa96836386de1d6fc.r2.dev/repairs/1.124.63.1020/repair.zip.001",
+    "https://pub-f9d4a74fc978463fa96836386de1d6fc.r2.dev/repairs/1.124.63.1020/repair.zip.002",
+    "https://pub-f9d4a74fc978463fa96836386de1d6fc.r2.dev/repairs/1.124.63.1020/repair.zip.003"
+  ]
+}
 }
