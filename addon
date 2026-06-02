@@ -1,0 +1,16 @@
+{
+  "dlcs": [
+    {
+      "code": "SP82",
+      "name": "Encanto ao Ar Livre",
+      "url": "https://link-da-sp82.zip",
+      "enabled": true
+    },
+    {
+      "code": "SP75",
+      "name": "Quarto Lúdico das Maravilhas",
+      "url": "https://link-da-sp75.zip",
+      "enabled": true
+    }
+  ]
+}
